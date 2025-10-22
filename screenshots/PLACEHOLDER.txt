@@ -1,0 +1,10 @@
+📸 SAVE YOUR SCREENSHOT HERE!
+
+1. Save your home page screenshot as: agent-market-home.png
+2. Delete this PLACEHOLDER.txt file
+3. Your README will automatically show the screenshot!
+
+The README is already configured to use: screenshots/agent-market-home.png
+
+See screenshots/README.md for more details and tips.
+

@@ -9,6 +9,11 @@ A local, open-source agent marketplace where anyone can build, modify, and test 
 [![Agno](https://img.shields.io/badge/agno-0.1+-green.svg)](https://agno.dev)
 [![GroqCloud](https://img.shields.io/badge/groqcloud-free-orange.svg)](https://console.groq.com)
 
+## 📸 Preview
+
+![Agent Market Home](screenshots/agent-market-home.png)
+*Your Local AI Agent Marketplace - Browse, create, and test AI agents from your desktop*
+
 ---
 
 ## 🧠 What is Agent Market?
@@ -193,6 +198,27 @@ For demo mode, no API key is needed. For real AI responses:
 3. Start chatting!
 4. Toggle "Show Reasoning" to see thought process
 5. Save interesting conversations
+
+---
+
+## 📸 Feature Screenshots
+
+### 🏠 Home Dashboard
+![Home Page](screenshots/agent-market-home.png)
+
+### 🏪 Agent Marketplace
+Browse, search, and explore all available agents.
+<!-- ![Marketplace](screenshots/marketplace.png) -->
+
+### 🧑‍💻 Agent Builder (No-Code)
+Create custom AI agents without writing any code.
+<!-- ![Create Agent](screenshots/create-agent.png) -->
+
+### 💬 Interactive Chat
+Test your agents in real-time with full conversation history.
+<!-- ![Chat Interface](screenshots/chat-interface.png) -->
+
+> **Note**: Take more screenshots and save them in the `screenshots/` folder to showcase all features!
 
 ---
 
@@ -391,16 +417,18 @@ streamlit run app.py --server.runOnSave true
 
 ## 📝 Roadmap
 
-- [ ] Agent deletion from UI
+- [ ] ui upgrade to nextjs/vite
 - [ ] Import/export agent configurations
-- [ ] Enhanced search with tags
+- [ ] payment options 
 - [ ] Agent versioning
 - [ ] Usage analytics
 - [ ] Cloud sync (optional)
-- [ ] Agent marketplace sharing
+- [ ] Agent marketplace sharing 
 - [ ] Custom model integration
-- [ ] Advanced tool builder
-- [ ] Agent templates
+- [ ] Advanced tool builder 
+- [ ] more real use case Agent templates
+- [ ] docker integration and hosting
+
 
 ---
 
