@@ -204,7 +204,7 @@ For demo mode, no API key is needed. For real AI responses:
 ## 📸 Feature Screenshots
 
 ### 🏠 Home Dashboard
-![Home Page](screenshots/agent-market-home.png)
+![Home Page](screenshots/featured.png)
 
 ### 🏪 Agent Marketplace
 Browse, search, and explore all available agents.
